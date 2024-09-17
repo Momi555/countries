@@ -3,11 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: rgb(111, 106, 100);
 }
 
 header {
     background: #333;
-    color: #fff;
+    color: #2f97ffc6;
     padding: 1rem 0;
 }
 
@@ -39,7 +40,7 @@ main {
 
 footer {
     background: #333;
-    color: #fff;
+    color: #90e4c9;
     text-align: center;
     padding: 1rem 0;
     position: fixed;
